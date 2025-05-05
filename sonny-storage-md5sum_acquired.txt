@@ -1,0 +1,11 @@
+d41d8cd98f00b204e9800998ecf8427e  storage/emulated/0/Android/data/.nomedia
+07ebc384778becfd6ad579fab42ea2af  storage/emulated/0/Android/data/com.android.gallery3d/cache/imgcache.0
+82cc520658f39c337235f7939dc53691  storage/emulated/0/Android/data/com.android.gallery3d/cache/imgcache.1
+2002a641974081a445194baf9bcb9706  storage/emulated/0/Android/data/com.android.gallery3d/cache/imgcache.idx
+82cc520658f39c337235f7939dc53691  storage/emulated/0/Android/data/com.android.gallery3d/cache/rev_geocoding.0
+82cc520658f39c337235f7939dc53691  storage/emulated/0/Android/data/com.android.gallery3d/cache/rev_geocoding.1
+885be73c0fe4ddd5fd7818fec2cade9b  storage/emulated/0/Android/data/com.android.gallery3d/cache/rev_geocoding.idx
+d41d8cd98f00b204e9800998ecf8427e  storage/emulated/0/Android/obb/.nomedia
+fc298a70dd26ed61eae18c8f9aa9a28a  storage/emulated/0/Download/notes.txt
+b6bf4a2fe14cbb7e9c0e0a46befc00b6  storage/emulated/0/Download/privatekey.sonnywilliams272.asc
+d41d8cd98f00b204e9800998ecf8427e  storage/emulated/obb/.nomedia
